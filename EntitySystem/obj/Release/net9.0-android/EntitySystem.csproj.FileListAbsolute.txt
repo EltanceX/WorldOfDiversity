@@ -1,0 +1,14 @@
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\build.props
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\adb.props
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\_CompileBindingJava.FileList.txt
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\EntitySystem.csproj.AssemblyReference.cache
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\libraryprojectimports.cache
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\stamp\_BuildLibraryImportsCache.stamp
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\__Microsoft.Android.Resource.Designer.cs
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\res.flag
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\R.txt
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\_Microsoft.Android.Resource.Designer.dll
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\R.cs.flag
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\EntitySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\EntitySystem\obj\Release\net9.0-android\EntitySystem.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\bin\Debug\net9.0-windows\Engine.deps.json
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\bin\Debug\net9.0-windows\Engine.dll
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\bin\Debug\net9.0-windows\Engine.pdb
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\bin\Debug\net9.0-windows\Engine.xml
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.csproj.AssemblyReference.cache
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.csproj.CoreCompileInputs.cache
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.dll
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\refint\Engine.dll
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.xml
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\Engine.pdb
+E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\Engine\obj\Debug\net9.0-windows\ref\Engine.dll

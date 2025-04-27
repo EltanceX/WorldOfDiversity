@@ -1,0 +1,59 @@
+SCBPF[1:Deflate 0:None] Survivalcraft World Blueprint Format
+Little Endian
+Default World Origin: 0, 0, 0
+
+
+
+0x01 Head
+0x02 SBP Version  uint8
+0x04 Length(x)  uint32
+0x05 Height(y)  uint32
+0x06 Width(z)  uint32
+
+
+
+0x10 Body
+0x11 AddBlockPattle(CraftingID)  uint8 char[]
+
+0x15 SetWorldOriginX  int32
+0x16 SetWorldOriginY  int32
+0x17 SetWorldOriginZ  int32
+0x18 X++
+0x19 Y++
+0x1A Z++
+0x1B AddX  int16
+0x1C AddY  int16
+0x1D AddZ  int16
+0x1E AddSmallX  int8
+0x1F AddSmallY  int8
+0x20 AddSmallZ  int8
+0x21 AddBigX  int32
+0x22 AddBigY  int32
+0x23 AddBigZ  int32
+
+0x27 SetX  int16
+0x28 SetY  int16
+0x29 SetZ  int16
+0x2A SetSmallX  int8
+0x2B SetSmallY  int8
+0x2C SetSmallZ  int8
+0x2D SetBigX  int32
+0x2E SetBigY  int32
+0x2F SetBigZ  int32
+
+0x40 PlaceBlock(CraftingID)  uint16:BlockPattleID
+0x41 PlaceBlock(BlockID)  uint16:BlockID
+0x42 SetBlockData  int32:Data
+0x43 SetBlockValue  int32:Value
+0x44 SetBlockLight  uint8
+0x45 PlaceBlockWithData(CraftingID)  uint16:BlockPattleID int32:Data
+0x46 PlaceBlockWithData(BlockID)  uint16:BlockID int32:Data
+0x47 PlaceBlockWithValue  int32:Value
+
+0x4A BlockLabel  uint16 char[]
+0x4B BlockLabelLarge  int32 char[]
+
+
+
+0xEE None
+0xFF End

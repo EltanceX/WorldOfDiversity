@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    此代码由工具生成。
+   它是从 E:\sc\2.4 Rebuild\1.81-1\SurvivalcraftApi\A_Launch\Properties\AndroidManifest.xml 生成的
+    如果重新生成内容，则对此文件的更改可能导致不正确的
+    行为并将丢失。
+    -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="18101" android:versionName="API1.81" package="com.candy.survivalcraft_glass">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="35" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="@string/ApiTitle" android:theme="@style/MainTheme" android:requestLegacyExternalStorage="true" android:icon="@mipmap/icon" android:roundIcon="@mipmap/icon_round" android:usesCleartextTraffic="true" android:localeConfig="@xml/locales_config" android:appCategory="game" android:isGame="true" android:name="android.app.Application" android:allowBackup="true" android:extractNativeLibs="true">
+    <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="@string/ShortTitle" android:launchMode="singleTask" android:theme="@style/MainTheme" android:name="crc643823cf60aa4af36d.MainActivity" android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="com.candy.survivalcraft" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="com.candy.survivalcraft_glass.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <meta-data android:name="android.notch_support" android:value="true" />
+  <meta-data android:name="android.game_mode_config" android:resource="@xml/game_mode_config" />
+  <!--by把红色赋予黑海，适配异形屏-->
+</manifest>

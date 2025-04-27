@@ -1,0 +1,12 @@
+drawable\splash;drawable\Splash
+layout\activity_main;layout\activity_main
+mipmap\icon;mipmap\icon
+mipmap\icon_foreground;mipmap\icon_foreground
+mipmap\icon_round;mipmap\icon_round
+values\colors;values\colors
+values\ic_launcher_background;values\ic_launcher_background
+values\icon_background;values\icon_background
+values\strings;values\strings
+values\styles;values\styles
+xml\game_mode_config;xml\game_mode_config
+xml\locales_config;xml\locales_config
